@@ -1,4 +1,4 @@
-# CPME255--Data-Mining 
+# CPME255--Data-Mining - Practice of Basic python and Advance colab setup + Building AUTO ML tool with AKKIO 
 
 Explore Colabs, Python, and AI pair programming by utilizing platforms like Akkio.com or other no-code AI platforms for machine learning projects.
 
