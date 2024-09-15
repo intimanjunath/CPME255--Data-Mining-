@@ -10,7 +10,7 @@ Implement the features from the advanced Colab tutorials in the provided slides 
 I have successfully implemented all the code shown in Derek Banas’ video and the advanced Colab tutorials, and I have uploaded the results.
 
 
-
+Assignment 2 : made porfolio app with the help of Github copilot https://github.com/intimanjunath/myPortfolio.git
 
 Assignment3: Auto ML with akkio or jadbio or any other good zero code automl - trial version Get akkio.com freeaccount, demonstrate one (or more if you are interested) end2end ml project in jadbio (no code project)
 Here is my video - https://www.youtube.com/watch?v=ow0peMjMSCg 
